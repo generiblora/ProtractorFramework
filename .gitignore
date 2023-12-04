@@ -1,0 +1,4 @@
+allure-results/
+screenshots/
+target/
+target/screenshots/my-report.html
